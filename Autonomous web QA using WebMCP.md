@@ -433,5 +433,6 @@ applyDiscount(price: number, percent: number) {
 - 💼 **LinkedIn**: [Alex Muturi](https://linkedin.com/in/alex-muturi)
 - 📦 **Demo Codebase 1 (Third Party Library + TOML configuration)**: [alex-migwi/angular-webmcp-qa-demo](https://github.com/alex-migwi/angular-webmcp-qa-demo)
 - 📦 **Demo Codebase 2 (Polyfill/Bridge)**: [alex-migwi/ng-webmcp-qa-demo-22](https://github.com/alex-migwi/webmcp-qa-demo)
+- **This Talk (Autonomous Web QA with WebMCP)**: [alex-migwi/angular-webmcp-qa-demo-talk](https://github.com/alex-migwi/angular-webmcp-qa-demo-talk)
 
 > Note: Thank you! Questions and contributions are welcome.
